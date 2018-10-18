@@ -1,1 +1,2 @@
 # ghost-test
+test
